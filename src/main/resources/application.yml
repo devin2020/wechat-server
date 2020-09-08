@@ -1,0 +1,11 @@
+server:
+  port: 80
+
+wechat:
+  token: weixin
+  welcome-title: 欢迎关注本医院
+  welcome-description: 我可以完成在线挂号、付费和查询等服务
+  welcome-pic-url: http://182.92.230.69/php/pic/bj3.png
+  welcome-url: https://www.puh3.net.cn/
+
+
