@@ -132,7 +132,4 @@ public class ReplyMessageUtil implements Serializable {
         return sb.toString();
     }
 
-
-
-
 }

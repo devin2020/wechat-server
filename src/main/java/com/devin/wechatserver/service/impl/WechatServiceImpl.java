@@ -11,7 +11,7 @@ import org.springframework.util.StringUtils;
 import java.util.*;
 
 /**
- * Description
+ * 微信消息业务处理
  *
  * @author devin
  */
